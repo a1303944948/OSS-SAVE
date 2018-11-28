@@ -1,0 +1,1 @@
+http://www(test).hontech-rdcenter.com:8080/bg-uc/jf/bg/basic/fp/gearateEatingCode.json//取餐码接口    接口类型： POST
